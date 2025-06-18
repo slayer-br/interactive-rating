@@ -1,7 +1,7 @@
 # Frontend Mentor - Interactive rating component
 
 ## 🎯 Desafio
-Este projeto é uma solução para o desafio do **Frontend Mentor**. O objetivo era desenvolver um <a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI" target="_blank" rel="noopener noreferrer">**componente interativo de avaliação**</a> que permitisse ao usuário selecionar uma nota e ver uma tela de agradecimento após o envio.
+Este projeto é uma solução para o desafio do **Frontend Mentor**. O objetivo era desenvolver um <a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI" target="_blank" rel="noopener noreferrer">**Interactive rating component**</a> que permitisse ao usuário selecionar uma nota e ver uma tela de agradecimento após o envio.
 
 📸 Screenshot
 | Versão Mobile | Versão Desktop |
